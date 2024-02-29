@@ -1,12 +1,12 @@
 <manifest
   sharedUserId="android.uid.phone"
-  versionCode="0x2"
+  versionCode="0x5"
   versionName="1.1"
   package="com.mediatek.ygps"
   platformBuildVersionCode="24"
   platformBuildVersionName="7.0">
   <uses-sdk
-    minSdkVersion="0x8"
+    minSdkVersion="0x10"
     targetSdkVersion="0x17">
   </uses-sdk>
   <uses-permission
@@ -64,7 +64,7 @@
     </activity>
     <service
       name=".YgpsService"
-      exported="0x0">
+      exported="1x1">
     </service>
   </application>
 </manifest>
