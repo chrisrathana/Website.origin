@@ -22,13 +22,14 @@
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": []
-             "authDomain": "fire.my.projet.website.appspot.com",
         }
       }
     }
   ],
   "configuration_version": "1"
-}
+  }
+
+
 
 
 
