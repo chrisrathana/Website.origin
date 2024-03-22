@@ -1,0 +1,37 @@
+{
+  "project_info-folder": {
+    "project_number": "222643976934",
+    "project_url": "https://rathanaphon.github.io/firebas.origin/",
+    "project_id": "website-e6c82.com",
+     "storage_bucket": "website-e6c82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "web_app_id": "1:222643976934:web:3f8dc1de75b47a43935927",
+        "wed_client_info": {
+          "package_name": "rathanaphon.github.io"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaScD-GAaAksJ5EkR5QN15j3SSAOlapeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+  }
+
+
+
+
+
+
+
