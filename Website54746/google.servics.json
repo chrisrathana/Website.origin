@@ -1,33 +1,99 @@
 {
-  "project_info-folder": {
-    "project_number": "222643976934",
-    "project_url": "https://rathanaphon.github.io/firebas.origin/",
-    "project_id": "website54746.com",
-     "storage_bucket": "website54746.appspot.com"
-  },
+  "project_info": {
+     "project_number": "222643976934",
+
+    "project_url": "https://rathanaphon.github.io.com/",
+
+    "project_folder-id": "website.org.project",
+
+     "storage_bucket": "rathanaphon.github.io.appspot.com,/
+    },
+
   "client": [
+
     {
+
       "client_info": {
+
         "web_app_id": "1:222643976934:web:3f8dc1de75b47a43935927",
+
         "wed_client_info": {
-          "package_name": "online@rathanaphon.github.io"
+
+          "package_name": "https://rathanaphon.github.io.com/"
         }
+
       },
+
       "oauth_client": [],
+
       "api_key": [
+
         {
-          "current_key": "AIzaSyA49nis0VWifZkBCVH-RUWl9nK3d7dcAag"
+
+          "current_key": "AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg"
+
         }
       ],
+
       "services": {
+
         "appinvite_service": {
+
           "other_platform_oauth_client": []
+
+             "oauthDomain": "https://rathanaphon.github.io.com/",
+            
+          }
         }
       }
-    }
-  ],
+    ],
   "configuration_version": "1"
   }
+  
+  
+          
+          
+  
+  
+  
+
+
+
+          
+
+
+
+
+
+
+
+
+
+
+   
+  
+
+  
+
+
+
+ 
+
+
+
+ 
+   
+
+
+
+  
+ 
+
+
+
+
+
+
 
 
 
